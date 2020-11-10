@@ -1,7 +1,7 @@
-class hello world
+class helloworld
 {
-public static void main (strings[]args)
+public static void main (String[]args)
 {
-system.out.println("hello world")
+System.out.println("hello");
 }
 }
